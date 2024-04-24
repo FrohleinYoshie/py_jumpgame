@@ -1,3 +1,3 @@
 # py_jumpgame
 
-っっz
+Press the space button to avoid the wall.
